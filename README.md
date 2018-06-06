@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages を編集中
 
 You can use the [editor on GitHub](https://github.com/yoshitake1124/Gallery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
